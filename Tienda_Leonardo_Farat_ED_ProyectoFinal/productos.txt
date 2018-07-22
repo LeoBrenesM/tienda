@@ -1,0 +1,12 @@
+teVerde
+650
+1
+Refresco
+CocaCola
+850
+2
+Refresco
+Snickers
+700
+3
+Chocolate
